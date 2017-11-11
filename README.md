@@ -1,9 +1,12 @@
-#Text_Adventure_1
+# Welcome to Text\_Adventure\_1!
 
-I hope that you can have fun with Text_Adventure_1 engine once it is finished. You can do many things:
-*make worlds
-*make items
-*make monsters and people
-*play as a person in your world
+There is a lot you can do in *Text\_Adventure\_1* 
 
-And thats all there is!!!
+* build worlds
+* create items
+* make creatures and people
+* explore the worlds you create
+
+All this *you* can do in *Text\_Adventure\_1*\*!
+
+###### \*you actually can not do any of this yet
