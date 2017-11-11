@@ -1,0 +1,7 @@
+target
+#*#
+*~
+cmake_install.cmake
+CMakeFiles
+CMakeCache.txt
+text_adventure_1
